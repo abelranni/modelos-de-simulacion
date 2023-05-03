@@ -138,6 +138,20 @@
                 ]
               }
             ]
+          },
+          {
+            "type": "category",
+            "label": "Salabim",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Salabim Banco Fase I",
+                "href": "/modelos-de-simulacion/docs/Simulacion/Salabim/banco_fase_1",
+                "docId": "Simulacion/Salabim/banco_fase_1"
+              }
+            ]
           }
         ],
         "href": "/modelos-de-simulacion/docs/category/03---simulación"
@@ -196,6 +210,12 @@
     "Simulacion/Anylogic/Ejemplo/banco_fase_4": {
       "id": "Simulacion/Anylogic/Ejemplo/banco_fase_4",
       "title": "Oficina Bancaria Fase IV",
+      "description": "Modelos de Simulación",
+      "sidebar": "tutorialSidebar"
+    },
+    "Simulacion/Salabim/banco_fase_1": {
+      "id": "Simulacion/Salabim/banco_fase_1",
+      "title": "Salabim Banco Fase I",
       "description": "Modelos de Simulación",
       "sidebar": "tutorialSidebar"
     },

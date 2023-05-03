@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Simulacion/Salabim/banco_fase_1",
+  "id": "Simulacion/Salabim/banco_fase_1",
+  "title": "Salabim Banco Fase I",
+  "description": "Modelos de Simulación",
+  "source": "@site/docs/03 - Simulacion/Salabim/banco_fase_1.md",
+  "sourceDirName": "03 - Simulacion/Salabim",
+  "slug": "/Simulacion/Salabim/banco_fase_1",
+  "permalink": "/modelos-de-simulacion/docs/Simulacion/Salabim/banco_fase_1",
+  "draft": false,
+  "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/03 - Simulacion/Salabim/banco_fase_1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "marp": false,
+    "theme": "default",
+    "size": 969,
+    "paginate": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Oficina Bancaria Fase IV",
+    "permalink": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_4"
+  }
+}

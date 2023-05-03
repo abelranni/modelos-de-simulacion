@@ -42,13 +42,16 @@
       "plugin": "plugin---modelos-de-simulacion-docusaurus-debuge-96-5ae"
     }
   },
-  "/modelos-de-simulacion/blog-e4e": {
+  "/modelos-de-simulacion/blog-f8e": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---modelos-de-simulacion-blog-487-0df"
     },
     "sidebar": "sidebar---modelos-de-simulacion-blog-814-4ea",
     "items": [
+      {
+        "content": "content---modelos-de-simulacion-blog-58-e-fbc"
+      },
       {
         "content": "content---modelos-de-simulacion-bloge-64-793"
       }
@@ -61,6 +64,14 @@
       "plugin": "plugin---modelos-de-simulacion-blog-487-0df"
     },
     "archive": "archive---modelos-de-simulacion-blog-archive-0-e-9-94f"
+  },
+  "/modelos-de-simulacion/blog/banco_salabim_fase_2-de3": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---modelos-de-simulacion-blog-487-0df"
+    },
+    "sidebar": "sidebar---modelos-de-simulacion-blog-814-4ea",
+    "content": "content---modelos-de-simulacion-blog-banco-salabim-fase-29-ff-ad7"
   },
   "/modelos-de-simulacion/blog/tags-e85": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
@@ -127,7 +138,7 @@
     },
     "content": "content---modelos-de-simulacion-markdown-page-393-458"
   },
-  "/modelos-de-simulacion/docs-69b": {
+  "/modelos-de-simulacion/docs-a82": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---modelos-de-simulacion-docs-7-ff-8d9"
@@ -181,6 +192,10 @@
   "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_4-258": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---modelos-de-simulacion-docs-simulacion-anylogic-ejemplo-banco-fase-4-bdc-d55"
+  },
+  "/modelos-de-simulacion/docs/Simulacion/Salabim/banco_fase_1-060": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---modelos-de-simulacion-docs-simulacion-salabim-banco-fase-157-c-4dd"
   },
   "/modelos-de-simulacion/docs/Variables Aleatorias/02.01_variables_aleatorias-004": {
     "__comp": "__comp---theme-doc-item-178-a40",

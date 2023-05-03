@@ -56,6 +56,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Simulacion/Salabim/banco_fase_1",
+              "path": "/modelos-de-simulacion/docs/Simulacion/Salabim/banco_fase_1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Variables Aleatorias/02.01_variables_aleatorias",
               "path": "/modelos-de-simulacion/docs/Variables Aleatorias/02.01_variables_aleatorias",
               "sidebar": "tutorialSidebar"

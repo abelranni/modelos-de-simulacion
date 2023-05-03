@@ -39,12 +39,17 @@ export default [
   },
   {
     path: '/modelos-de-simulacion/blog',
-    component: ComponentCreator('/modelos-de-simulacion/blog', 'e4e'),
+    component: ComponentCreator('/modelos-de-simulacion/blog', 'f8e'),
     exact: true
   },
   {
     path: '/modelos-de-simulacion/blog/archive',
     component: ComponentCreator('/modelos-de-simulacion/blog/archive', 'b46'),
+    exact: true
+  },
+  {
+    path: '/modelos-de-simulacion/blog/banco_salabim_fase_2',
+    component: ComponentCreator('/modelos-de-simulacion/blog/banco_salabim_fase_2', 'de3'),
     exact: true
   },
   {
@@ -79,7 +84,7 @@ export default [
   },
   {
     path: '/modelos-de-simulacion/docs',
-    component: ComponentCreator('/modelos-de-simulacion/docs', '69b'),
+    component: ComponentCreator('/modelos-de-simulacion/docs', 'a82'),
     routes: [
       {
         path: '/modelos-de-simulacion/docs/category/01---introducción',
@@ -150,6 +155,12 @@ export default [
       {
         path: '/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_4',
         component: ComponentCreator('/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_4', '258'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/modelos-de-simulacion/docs/Simulacion/Salabim/banco_fase_1',
+        component: ComponentCreator('/modelos-de-simulacion/docs/Simulacion/Salabim/banco_fase_1', '060'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
