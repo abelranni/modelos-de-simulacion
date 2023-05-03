@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmodelos_de_simulacion=self.webpackChunkmodelos_de_simulacion||[]).push([[8635],{3659:e=>{e.exports=JSON.parse('{"permalink":"/modelos-de-simulacion/blog/tags/lenguajes","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

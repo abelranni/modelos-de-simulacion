@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmodelos_de_simulacion=self.webpackChunkmodelos_de_simulacion||[]).push([[754],{2490:e=>{e.exports=JSON.parse('{"label":"lenguajes","permalink":"/modelos-de-simulacion/blog/tags/lenguajes","allTagsPath":"/modelos-de-simulacion/blog/tags","count":1}')}}]);
