@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmodelos_de_simulacion=self.webpackChunkmodelos_de_simulacion||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Bienvenida","permalink":"/modelos-de-simulacion/blog/welcome"}]}')}}]);

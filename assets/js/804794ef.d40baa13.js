@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmodelos_de_simulacion=self.webpackChunkmodelos_de_simulacion||[]).push([[9028],{4015:e=>{e.exports=JSON.parse('{"permalink":"/modelos-de-simulacion/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
