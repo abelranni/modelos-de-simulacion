@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Introduccion/01.01_introduccion",
+  "id": "Introduccion/01.01_introduccion",
+  "title": "01.01 - Introducción",
+  "description": "Modelos de Simualción",
+  "source": "@site/docs/01 - Introduccion/01.01_introduccion.md",
+  "sourceDirName": "01 - Introduccion",
+  "slug": "/Introduccion/01.01_introduccion",
+  "permalink": "/modelos-de-simulacion/docs/Introduccion/01.01_introduccion",
+  "draft": false,
+  "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/01 - Introduccion/01.01_introduccion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "marp": true,
+    "theme": "default",
+    "size": 969,
+    "paginate": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "01 - Introducción",
+    "permalink": "/modelos-de-simulacion/docs/category/01---introducción"
+  },
+  "next": {
+    "title": "01.02 - Números Aleatorios y Pseudoaleatorios",
+    "permalink": "/modelos-de-simulacion/docs/Introduccion/01.02_numeros_pseudoaleatorios"
+  }
+}

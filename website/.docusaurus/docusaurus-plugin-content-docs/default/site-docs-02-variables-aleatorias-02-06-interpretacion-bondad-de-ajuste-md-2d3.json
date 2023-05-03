@@ -1,0 +1,30 @@
+{
+  "unversionedId": "Variables Aleatorias/02.06_interpretacion_bondad_de_ajuste",
+  "id": "Variables Aleatorias/02.06_interpretacion_bondad_de_ajuste",
+  "title": "02.03 - Interpretación de la prueba de bondad de ajuste",
+  "description": "Modelos de Simualción",
+  "source": "@site/docs/02 - Variables Aleatorias/02.06_interpretacion_bondad_de_ajuste.md",
+  "sourceDirName": "02 - Variables Aleatorias",
+  "slug": "/Variables Aleatorias/02.06_interpretacion_bondad_de_ajuste",
+  "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.06_interpretacion_bondad_de_ajuste",
+  "draft": false,
+  "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/02 - Variables Aleatorias/02.06_interpretacion_bondad_de_ajuste.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "marp": true,
+    "theme": "default",
+    "size": 969,
+    "paginate": true,
+    "math": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "02.05 - Método de transformada inversa",
+    "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.05_transformada_inversa"
+  },
+  "next": {
+    "title": "03 - Simulación",
+    "permalink": "/modelos-de-simulacion/docs/category/03---simulación"
+  }
+}

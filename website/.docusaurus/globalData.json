@@ -1,0 +1,118 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/modelos-de-simulacion/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/modelos-de-simulacion/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/modelos-de-simulacion/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduccion/01.01_introduccion",
+              "path": "/modelos-de-simulacion/docs/Introduccion/01.01_introduccion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduccion/01.02_numeros_pseudoaleatorios",
+              "path": "/modelos-de-simulacion/docs/Introduccion/01.02_numeros_pseudoaleatorios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduccion/01.03_metodos_congruenciales_lineales",
+              "path": "/modelos-de-simulacion/docs/Introduccion/01.03_metodos_congruenciales_lineales",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduccion/01.04_py_numeros_pseudoaleatorios",
+              "path": "/modelos-de-simulacion/docs/Introduccion/01.04_py_numeros_pseudoaleatorios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Simulacion/Anylogic/Ejemplo/banco_fase_1",
+              "path": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Simulacion/Anylogic/Ejemplo/banco_fase_2",
+              "path": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Simulacion/Anylogic/Ejemplo/banco_fase_3",
+              "path": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Simulacion/Anylogic/Ejemplo/banco_fase_4",
+              "path": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Variables Aleatorias/02.01_variables_aleatorias",
+              "path": "/modelos-de-simulacion/docs/Variables Aleatorias/02.01_variables_aleatorias",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Variables Aleatorias/02.02_pruebas_de_bondad",
+              "path": "/modelos-de-simulacion/docs/Variables Aleatorias/02.02_pruebas_de_bondad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Variables Aleatorias/02.03_py_app_bondad",
+              "path": "/modelos-de-simulacion/docs/Variables Aleatorias/02.03_py_app_bondad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Variables Aleatorias/02.04_distribuciones",
+              "path": "/modelos-de-simulacion/docs/Variables Aleatorias/02.04_distribuciones",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Variables Aleatorias/02.05_transformada_inversa",
+              "path": "/modelos-de-simulacion/docs/Variables Aleatorias/02.05_transformada_inversa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Variables Aleatorias/02.06_interpretacion_bondad_de_ajuste",
+              "path": "/modelos-de-simulacion/docs/Variables Aleatorias/02.06_interpretacion_bondad_de_ajuste",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/01---introducción",
+              "path": "/modelos-de-simulacion/docs/category/01---introducción",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/02---variables-aleatorias",
+              "path": "/modelos-de-simulacion/docs/category/02---variables-aleatorias",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/03---simulación",
+              "path": "/modelos-de-simulacion/docs/category/03---simulación",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/modelos-de-simulacion/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

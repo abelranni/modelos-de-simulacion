@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Simulacion/Anylogic/Ejemplo/banco_fase_5",
+  "id": "Simulacion/Anylogic/Ejemplo/banco_fase_5",
+  "title": "banco_fase_5",
+  "description": "",
+  "source": "@site/docs/03 - Simulacion/Anylogic/Ejemplo/banco_fase_5.md",
+  "sourceDirName": "03 - Simulacion/Anylogic/Ejemplo",
+  "slug": "/Simulacion/Anylogic/Ejemplo/banco_fase_5",
+  "permalink": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_5",
+  "draft": false,
+  "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/03 - Simulacion/Anylogic/Ejemplo/banco_fase_5.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Anylogic - Ejemplo guiado : Oficina Bancaria Fase IV",
+    "permalink": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_4"
+  }
+}

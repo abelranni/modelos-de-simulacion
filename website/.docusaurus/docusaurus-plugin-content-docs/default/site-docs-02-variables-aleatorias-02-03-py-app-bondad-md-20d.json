@@ -1,0 +1,30 @@
+{
+  "unversionedId": "Variables Aleatorias/02.03_py_app_bondad",
+  "id": "Variables Aleatorias/02.03_py_app_bondad",
+  "title": "02.03 - Aplicación para probar bondad de ajuste",
+  "description": "Modelos de Simualción",
+  "source": "@site/docs/02 - Variables Aleatorias/02.03_py_app_bondad.md",
+  "sourceDirName": "02 - Variables Aleatorias",
+  "slug": "/Variables Aleatorias/02.03_py_app_bondad",
+  "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.03_py_app_bondad",
+  "draft": false,
+  "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/02 - Variables Aleatorias/02.03_py_app_bondad.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "marp": true,
+    "theme": "default",
+    "size": 969,
+    "paginate": true,
+    "math": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "02.02 - Pruebas de bondad de ajuste",
+    "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.02_pruebas_de_bondad"
+  },
+  "next": {
+    "title": "02.04 - Distribuciones de probabilidad",
+    "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.04_distribuciones"
+  }
+}

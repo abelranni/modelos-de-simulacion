@@ -1,0 +1,32 @@
+{
+  "unversionedId": "Variables Aleatorias/02.02_pruebas_de_bondad",
+  "id": "Variables Aleatorias/02.02_pruebas_de_bondad",
+  "title": "02.02 - Pruebas de bondad de ajuste",
+  "description": "Modelos de Simualción",
+  "source": "@site/docs/02 - Variables Aleatorias/02.02_pruebas_de_bondad.md",
+  "sourceDirName": "02 - Variables Aleatorias",
+  "slug": "/Variables Aleatorias/02.02_pruebas_de_bondad",
+  "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.02_pruebas_de_bondad",
+  "draft": false,
+  "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/02 - Variables Aleatorias/02.02_pruebas_de_bondad.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "marp": true,
+    "theme": "default",
+    "size": 969,
+    "paginate": true,
+    "math": true,
+    "header": "Pruebas de Bondad de Ajustes",
+    "footer": "Prueba 𝜒^2"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "02.01 - Variables Aleatorias",
+    "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.01_variables_aleatorias"
+  },
+  "next": {
+    "title": "02.03 - Aplicación para probar bondad de ajuste",
+    "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.03_py_app_bondad"
+  }
+}

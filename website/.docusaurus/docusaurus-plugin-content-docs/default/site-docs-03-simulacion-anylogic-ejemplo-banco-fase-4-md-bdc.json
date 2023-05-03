@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Simulacion/Anylogic/Ejemplo/banco_fase_4",
+  "id": "Simulacion/Anylogic/Ejemplo/banco_fase_4",
+  "title": "Oficina Bancaria Fase IV",
+  "description": "Modelos de Simulación",
+  "source": "@site/docs/03 - Simulacion/Anylogic/Ejemplo/banco_fase_4.md",
+  "sourceDirName": "03 - Simulacion/Anylogic/Ejemplo",
+  "slug": "/Simulacion/Anylogic/Ejemplo/banco_fase_4",
+  "permalink": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_4",
+  "draft": false,
+  "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/03 - Simulacion/Anylogic/Ejemplo/banco_fase_4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "marp": true,
+    "theme": "default",
+    "size": 969,
+    "paginate": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Oficina Bancaria Fase III",
+    "permalink": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_3"
+  }
+}

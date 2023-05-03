@@ -1,0 +1,750 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/modelos-de-simulacion/docs",
+          "tagsPath": "/modelos-de-simulacion/docs/tags",
+          "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs",
+          "editUrlLocalized": "https://github.com/abelranni/modelos-de-simulacion/tree/main/i18n/es/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\ucel\\modelos-de-simulacion\\website\\sidebars.js",
+          "contentPath": "C:\\ucel\\modelos-de-simulacion\\website\\docs",
+          "contentPathLocalized": "C:\\ucel\\modelos-de-simulacion\\website\\i18n\\es\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Introducción",
+              "description": "Introducción a la documentación de la asignatura...",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/modelos-de-simulacion/docs/intro",
+              "draft": false,
+              "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "01 - Introducción",
+                "permalink": "/modelos-de-simulacion/docs/category/01---introducción"
+              }
+            },
+            {
+              "unversionedId": "Introduccion/01.01_introduccion",
+              "id": "Introduccion/01.01_introduccion",
+              "title": "01.01 - Introducción",
+              "description": "Modelos de Simualción",
+              "source": "@site/docs/01 - Introduccion/01.01_introduccion.md",
+              "sourceDirName": "01 - Introduccion",
+              "slug": "/Introduccion/01.01_introduccion",
+              "permalink": "/modelos-de-simulacion/docs/Introduccion/01.01_introduccion",
+              "draft": false,
+              "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/01 - Introduccion/01.01_introduccion.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "marp": true,
+                "theme": "default",
+                "size": 969,
+                "paginate": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "01 - Introducción",
+                "permalink": "/modelos-de-simulacion/docs/category/01---introducción"
+              },
+              "next": {
+                "title": "01.02 - Números Aleatorios y Pseudoaleatorios",
+                "permalink": "/modelos-de-simulacion/docs/Introduccion/01.02_numeros_pseudoaleatorios"
+              }
+            },
+            {
+              "unversionedId": "Introduccion/01.02_numeros_pseudoaleatorios",
+              "id": "Introduccion/01.02_numeros_pseudoaleatorios",
+              "title": "01.02 - Números Aleatorios y Pseudoaleatorios",
+              "description": "Modelos de Simualción",
+              "source": "@site/docs/01 - Introduccion/01.02_numeros_pseudoaleatorios.md",
+              "sourceDirName": "01 - Introduccion",
+              "slug": "/Introduccion/01.02_numeros_pseudoaleatorios",
+              "permalink": "/modelos-de-simulacion/docs/Introduccion/01.02_numeros_pseudoaleatorios",
+              "draft": false,
+              "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/01 - Introduccion/01.02_numeros_pseudoaleatorios.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "marp": true,
+                "theme": "default",
+                "size": 969,
+                "paginate": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "01.01 - Introducción",
+                "permalink": "/modelos-de-simulacion/docs/Introduccion/01.01_introduccion"
+              },
+              "next": {
+                "title": "01.03 - Métodos Congruenciales Lineales",
+                "permalink": "/modelos-de-simulacion/docs/Introduccion/01.03_metodos_congruenciales_lineales"
+              }
+            },
+            {
+              "unversionedId": "Introduccion/01.03_metodos_congruenciales_lineales",
+              "id": "Introduccion/01.03_metodos_congruenciales_lineales",
+              "title": "01.03 - Métodos Congruenciales Lineales",
+              "description": "Modelos de Simualción",
+              "source": "@site/docs/01 - Introduccion/01.03_metodos_congruenciales_lineales.md",
+              "sourceDirName": "01 - Introduccion",
+              "slug": "/Introduccion/01.03_metodos_congruenciales_lineales",
+              "permalink": "/modelos-de-simulacion/docs/Introduccion/01.03_metodos_congruenciales_lineales",
+              "draft": false,
+              "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/01 - Introduccion/01.03_metodos_congruenciales_lineales.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "marp": true,
+                "theme": "default",
+                "size": 969,
+                "paginate": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "01.02 - Números Aleatorios y Pseudoaleatorios",
+                "permalink": "/modelos-de-simulacion/docs/Introduccion/01.02_numeros_pseudoaleatorios"
+              },
+              "next": {
+                "title": "01.04 - Números pseudoaleatorios en Python",
+                "permalink": "/modelos-de-simulacion/docs/Introduccion/01.04_py_numeros_pseudoaleatorios"
+              }
+            },
+            {
+              "unversionedId": "Introduccion/01.04_py_numeros_pseudoaleatorios",
+              "id": "Introduccion/01.04_py_numeros_pseudoaleatorios",
+              "title": "01.04 - Números pseudoaleatorios en Python",
+              "description": "Modelos de Simualción",
+              "source": "@site/docs/01 - Introduccion/01.04_py_numeros_pseudoaleatorios.md",
+              "sourceDirName": "01 - Introduccion",
+              "slug": "/Introduccion/01.04_py_numeros_pseudoaleatorios",
+              "permalink": "/modelos-de-simulacion/docs/Introduccion/01.04_py_numeros_pseudoaleatorios",
+              "draft": false,
+              "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/01 - Introduccion/01.04_py_numeros_pseudoaleatorios.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "marp": true,
+                "theme": "default",
+                "size": 969,
+                "paginate": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "01.03 - Métodos Congruenciales Lineales",
+                "permalink": "/modelos-de-simulacion/docs/Introduccion/01.03_metodos_congruenciales_lineales"
+              },
+              "next": {
+                "title": "02 - Variables Aleatorias",
+                "permalink": "/modelos-de-simulacion/docs/category/02---variables-aleatorias"
+              }
+            },
+            {
+              "unversionedId": "Simulacion/Anylogic/Ejemplo/banco_fase_1",
+              "id": "Simulacion/Anylogic/Ejemplo/banco_fase_1",
+              "title": "Oficina Bancaria Fase I",
+              "description": "Modelos de Simulación",
+              "source": "@site/docs/03 - Simulacion/Anylogic/Ejemplo/banco_fase_1.md",
+              "sourceDirName": "03 - Simulacion/Anylogic/Ejemplo",
+              "slug": "/Simulacion/Anylogic/Ejemplo/banco_fase_1",
+              "permalink": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_1",
+              "draft": false,
+              "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/03 - Simulacion/Anylogic/Ejemplo/banco_fase_1.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "marp": true,
+                "theme": "default",
+                "size": 969,
+                "paginate": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "03 - Simulación",
+                "permalink": "/modelos-de-simulacion/docs/category/03---simulación"
+              },
+              "next": {
+                "title": "Oficina Bancaria Fase II",
+                "permalink": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_2"
+              }
+            },
+            {
+              "unversionedId": "Simulacion/Anylogic/Ejemplo/banco_fase_2",
+              "id": "Simulacion/Anylogic/Ejemplo/banco_fase_2",
+              "title": "Oficina Bancaria Fase II",
+              "description": "Modelos de Simulación",
+              "source": "@site/docs/03 - Simulacion/Anylogic/Ejemplo/banco_fase_2.md",
+              "sourceDirName": "03 - Simulacion/Anylogic/Ejemplo",
+              "slug": "/Simulacion/Anylogic/Ejemplo/banco_fase_2",
+              "permalink": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_2",
+              "draft": false,
+              "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/03 - Simulacion/Anylogic/Ejemplo/banco_fase_2.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "marp": true,
+                "theme": "default",
+                "size": 969,
+                "paginate": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Oficina Bancaria Fase I",
+                "permalink": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_1"
+              },
+              "next": {
+                "title": "Oficina Bancaria Fase III",
+                "permalink": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_3"
+              }
+            },
+            {
+              "unversionedId": "Simulacion/Anylogic/Ejemplo/banco_fase_3",
+              "id": "Simulacion/Anylogic/Ejemplo/banco_fase_3",
+              "title": "Oficina Bancaria Fase III",
+              "description": "Modelos de Simulación",
+              "source": "@site/docs/03 - Simulacion/Anylogic/Ejemplo/banco_fase_3.md",
+              "sourceDirName": "03 - Simulacion/Anylogic/Ejemplo",
+              "slug": "/Simulacion/Anylogic/Ejemplo/banco_fase_3",
+              "permalink": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_3",
+              "draft": false,
+              "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/03 - Simulacion/Anylogic/Ejemplo/banco_fase_3.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "marp": true,
+                "theme": "default",
+                "size": 969,
+                "paginate": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Oficina Bancaria Fase II",
+                "permalink": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_2"
+              },
+              "next": {
+                "title": "Oficina Bancaria Fase IV",
+                "permalink": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_4"
+              }
+            },
+            {
+              "unversionedId": "Simulacion/Anylogic/Ejemplo/banco_fase_4",
+              "id": "Simulacion/Anylogic/Ejemplo/banco_fase_4",
+              "title": "Oficina Bancaria Fase IV",
+              "description": "Modelos de Simulación",
+              "source": "@site/docs/03 - Simulacion/Anylogic/Ejemplo/banco_fase_4.md",
+              "sourceDirName": "03 - Simulacion/Anylogic/Ejemplo",
+              "slug": "/Simulacion/Anylogic/Ejemplo/banco_fase_4",
+              "permalink": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_4",
+              "draft": false,
+              "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/03 - Simulacion/Anylogic/Ejemplo/banco_fase_4.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "marp": true,
+                "theme": "default",
+                "size": 969,
+                "paginate": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Oficina Bancaria Fase III",
+                "permalink": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_3"
+              }
+            },
+            {
+              "unversionedId": "Variables Aleatorias/02.01_variables_aleatorias",
+              "id": "Variables Aleatorias/02.01_variables_aleatorias",
+              "title": "02.01 - Variables Aleatorias",
+              "description": "Modelos de Simualción",
+              "source": "@site/docs/02 - Variables Aleatorias/02.01_variables_aleatorias.md",
+              "sourceDirName": "02 - Variables Aleatorias",
+              "slug": "/Variables Aleatorias/02.01_variables_aleatorias",
+              "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.01_variables_aleatorias",
+              "draft": false,
+              "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/02 - Variables Aleatorias/02.01_variables_aleatorias.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "marp": true,
+                "theme": "default",
+                "size": 969,
+                "paginate": true,
+                "math": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "02 - Variables Aleatorias",
+                "permalink": "/modelos-de-simulacion/docs/category/02---variables-aleatorias"
+              },
+              "next": {
+                "title": "02.02 - Pruebas de bondad de ajuste",
+                "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.02_pruebas_de_bondad"
+              }
+            },
+            {
+              "unversionedId": "Variables Aleatorias/02.02_pruebas_de_bondad",
+              "id": "Variables Aleatorias/02.02_pruebas_de_bondad",
+              "title": "02.02 - Pruebas de bondad de ajuste",
+              "description": "Modelos de Simualción",
+              "source": "@site/docs/02 - Variables Aleatorias/02.02_pruebas_de_bondad.md",
+              "sourceDirName": "02 - Variables Aleatorias",
+              "slug": "/Variables Aleatorias/02.02_pruebas_de_bondad",
+              "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.02_pruebas_de_bondad",
+              "draft": false,
+              "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/02 - Variables Aleatorias/02.02_pruebas_de_bondad.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "marp": true,
+                "theme": "default",
+                "size": 969,
+                "paginate": true,
+                "math": true,
+                "header": "Pruebas de Bondad de Ajustes",
+                "footer": "Prueba 𝜒^2"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "02.01 - Variables Aleatorias",
+                "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.01_variables_aleatorias"
+              },
+              "next": {
+                "title": "02.03 - Aplicación para probar bondad de ajuste",
+                "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.03_py_app_bondad"
+              }
+            },
+            {
+              "unversionedId": "Variables Aleatorias/02.03_py_app_bondad",
+              "id": "Variables Aleatorias/02.03_py_app_bondad",
+              "title": "02.03 - Aplicación para probar bondad de ajuste",
+              "description": "Modelos de Simualción",
+              "source": "@site/docs/02 - Variables Aleatorias/02.03_py_app_bondad.md",
+              "sourceDirName": "02 - Variables Aleatorias",
+              "slug": "/Variables Aleatorias/02.03_py_app_bondad",
+              "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.03_py_app_bondad",
+              "draft": false,
+              "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/02 - Variables Aleatorias/02.03_py_app_bondad.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "marp": true,
+                "theme": "default",
+                "size": 969,
+                "paginate": true,
+                "math": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "02.02 - Pruebas de bondad de ajuste",
+                "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.02_pruebas_de_bondad"
+              },
+              "next": {
+                "title": "02.04 - Distribuciones de probabilidad",
+                "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.04_distribuciones"
+              }
+            },
+            {
+              "unversionedId": "Variables Aleatorias/02.04_distribuciones",
+              "id": "Variables Aleatorias/02.04_distribuciones",
+              "title": "02.04 - Distribuciones de probabilidad",
+              "description": "Modelos de Simualción",
+              "source": "@site/docs/02 - Variables Aleatorias/02.04_distribuciones.md",
+              "sourceDirName": "02 - Variables Aleatorias",
+              "slug": "/Variables Aleatorias/02.04_distribuciones",
+              "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.04_distribuciones",
+              "draft": false,
+              "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/02 - Variables Aleatorias/02.04_distribuciones.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "marp": true,
+                "theme": "default",
+                "size": 969,
+                "paginate": true,
+                "math": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "02.03 - Aplicación para probar bondad de ajuste",
+                "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.03_py_app_bondad"
+              },
+              "next": {
+                "title": "02.05 - Método de transformada inversa",
+                "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.05_transformada_inversa"
+              }
+            },
+            {
+              "unversionedId": "Variables Aleatorias/02.05_transformada_inversa",
+              "id": "Variables Aleatorias/02.05_transformada_inversa",
+              "title": "02.05 - Método de transformada inversa",
+              "description": "Modelos de Simualción",
+              "source": "@site/docs/02 - Variables Aleatorias/02.05_transformada_inversa.md",
+              "sourceDirName": "02 - Variables Aleatorias",
+              "slug": "/Variables Aleatorias/02.05_transformada_inversa",
+              "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.05_transformada_inversa",
+              "draft": false,
+              "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/02 - Variables Aleatorias/02.05_transformada_inversa.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "marp": true,
+                "theme": "default",
+                "size": 969,
+                "paginate": true,
+                "math": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "02.04 - Distribuciones de probabilidad",
+                "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.04_distribuciones"
+              },
+              "next": {
+                "title": "02.03 - Interpretación de la prueba de bondad de ajuste",
+                "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.06_interpretacion_bondad_de_ajuste"
+              }
+            },
+            {
+              "unversionedId": "Variables Aleatorias/02.06_interpretacion_bondad_de_ajuste",
+              "id": "Variables Aleatorias/02.06_interpretacion_bondad_de_ajuste",
+              "title": "02.03 - Interpretación de la prueba de bondad de ajuste",
+              "description": "Modelos de Simualción",
+              "source": "@site/docs/02 - Variables Aleatorias/02.06_interpretacion_bondad_de_ajuste.md",
+              "sourceDirName": "02 - Variables Aleatorias",
+              "slug": "/Variables Aleatorias/02.06_interpretacion_bondad_de_ajuste",
+              "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.06_interpretacion_bondad_de_ajuste",
+              "draft": false,
+              "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/02 - Variables Aleatorias/02.06_interpretacion_bondad_de_ajuste.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "marp": true,
+                "theme": "default",
+                "size": 969,
+                "paginate": true,
+                "math": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "02.05 - Método de transformada inversa",
+                "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.05_transformada_inversa"
+              },
+              "next": {
+                "title": "03 - Simulación",
+                "permalink": "/modelos-de-simulacion/docs/category/03---simulación"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "01 - Introducción",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Introduccion/01.01_introduccion"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Introduccion/01.02_numeros_pseudoaleatorios"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Introduccion/01.03_metodos_congruenciales_lineales"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Introduccion/01.04_py_numeros_pseudoaleatorios"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Introducción a la asignatura",
+                  "slug": "/category/01---introducción",
+                  "permalink": "/modelos-de-simulacion/docs/category/01---introducción"
+                }
+              },
+              {
+                "type": "category",
+                "label": "02 - Variables Aleatorias",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Variables Aleatorias/02.01_variables_aleatorias"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Variables Aleatorias/02.02_pruebas_de_bondad"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Variables Aleatorias/02.03_py_app_bondad"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Variables Aleatorias/02.04_distribuciones"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Variables Aleatorias/02.05_transformada_inversa"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Variables Aleatorias/02.06_interpretacion_bondad_de_ajuste"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Variables Aleatorias",
+                  "slug": "/category/02---variables-aleatorias",
+                  "permalink": "/modelos-de-simulacion/docs/category/02---variables-aleatorias"
+                }
+              },
+              {
+                "type": "category",
+                "label": "03 - Simulación",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Anylogic",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "category",
+                        "label": "Ejemplo",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Simulacion/Anylogic/Ejemplo/banco_fase_1"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "Simulacion/Anylogic/Ejemplo/banco_fase_2"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "Simulacion/Anylogic/Ejemplo/banco_fase_3"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "Simulacion/Anylogic/Ejemplo/banco_fase_4"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Programas de Simulación",
+                  "slug": "/category/03---simulación",
+                  "permalink": "/modelos-de-simulacion/docs/category/03---simulación"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/modelos-de-simulacion/blog/welcome",
+            "source": "@site/blog/2023-04-10-bienvenida/index.md",
+            "title": "Bienvenida",
+            "description": "Las funciones de blogging de Docusaurus funcionan con el plugin de blog.",
+            "date": "2023-04-10T00:00:00.000Z",
+            "formattedDate": "10 de abril de 2023",
+            "tags": [
+              {
+                "label": "lenguajes",
+                "permalink": "/modelos-de-simulacion/blog/tags/lenguajes"
+              },
+              {
+                "label": "c",
+                "permalink": "/modelos-de-simulacion/blog/tags/c"
+              },
+              {
+                "label": "intro",
+                "permalink": "/modelos-de-simulacion/blog/tags/intro"
+              }
+            ],
+            "readingTime": 0.28,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Abel Ranni",
+                "title": "Developer",
+                "url": "https://github.com/abelranni",
+                "imageURL": "https://avatars.githubusercontent.com/u/13169667?v=4",
+                "key": "abel"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Bienvenida",
+              "authors": [
+                "abel"
+              ],
+              "tags": [
+                "lenguajes",
+                "c",
+                "intro"
+              ]
+            }
+          },
+          "content": "Las [funciones de blogging de Docusaurus](https://docusaurus.io/docs/blog) funcionan con el [plugin de blog](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\r\n\r\nSimplemente añada archivos Markdown (o carpetas) al directorio `blog`.\r\n\r\nLos autores habituales del blog pueden añadirse a `authors.yml`.\r\n\r\nLa fecha de la entrada del blog se puede extraer de los nombres de archivo, tales como:\r\n\r\n- `2019-05-30-bienvenida.md`\r\n- `2019-05-30-welcome/index.md`\r\n\r\nEl blog también admite etiquetas."
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome"
+          ],
+          "metadata": {
+            "permalink": "/modelos-de-simulacion/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/modelos-de-simulacion/blog/tags/lenguajes": {
+          "label": "lenguajes",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/modelos-de-simulacion/blog/tags/lenguajes",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/modelos-de-simulacion/blog/tags/lenguajes",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/modelos-de-simulacion/blog/tags/c": {
+          "label": "c",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/modelos-de-simulacion/blog/tags/c",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/modelos-de-simulacion/blog/tags/c",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/modelos-de-simulacion/blog/tags/intro": {
+          "label": "intro",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/modelos-de-simulacion/blog/tags/intro",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/modelos-de-simulacion/blog/tags/intro",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/modelos-de-simulacion/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/modelos-de-simulacion/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/modelos-de-simulacion/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

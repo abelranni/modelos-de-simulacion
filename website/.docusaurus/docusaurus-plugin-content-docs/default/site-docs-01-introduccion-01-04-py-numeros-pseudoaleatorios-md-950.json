@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Introduccion/01.04_py_numeros_pseudoaleatorios",
+  "id": "Introduccion/01.04_py_numeros_pseudoaleatorios",
+  "title": "01.04 - Números pseudoaleatorios en Python",
+  "description": "Modelos de Simualción",
+  "source": "@site/docs/01 - Introduccion/01.04_py_numeros_pseudoaleatorios.md",
+  "sourceDirName": "01 - Introduccion",
+  "slug": "/Introduccion/01.04_py_numeros_pseudoaleatorios",
+  "permalink": "/modelos-de-simulacion/docs/Introduccion/01.04_py_numeros_pseudoaleatorios",
+  "draft": false,
+  "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/01 - Introduccion/01.04_py_numeros_pseudoaleatorios.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "marp": true,
+    "theme": "default",
+    "size": 969,
+    "paginate": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "01.03 - Métodos Congruenciales Lineales",
+    "permalink": "/modelos-de-simulacion/docs/Introduccion/01.03_metodos_congruenciales_lineales"
+  },
+  "next": {
+    "title": "02 - Variables Aleatorias",
+    "permalink": "/modelos-de-simulacion/docs/category/02---variables-aleatorias"
+  }
+}

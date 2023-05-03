@@ -1,0 +1,30 @@
+{
+  "unversionedId": "Variables Aleatorias/02.01_variables_aleatorias",
+  "id": "Variables Aleatorias/02.01_variables_aleatorias",
+  "title": "02.01 - Variables Aleatorias",
+  "description": "Modelos de Simualción",
+  "source": "@site/docs/02 - Variables Aleatorias/02.01_variables_aleatorias.md",
+  "sourceDirName": "02 - Variables Aleatorias",
+  "slug": "/Variables Aleatorias/02.01_variables_aleatorias",
+  "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.01_variables_aleatorias",
+  "draft": false,
+  "editUrl": "https://github.com/abelranni/modelos-de-simulacion/tree/main/docs/02 - Variables Aleatorias/02.01_variables_aleatorias.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "marp": true,
+    "theme": "default",
+    "size": 969,
+    "paginate": true,
+    "math": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "02 - Variables Aleatorias",
+    "permalink": "/modelos-de-simulacion/docs/category/02---variables-aleatorias"
+  },
+  "next": {
+    "title": "02.02 - Pruebas de bondad de ajuste",
+    "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.02_pruebas_de_bondad"
+  }
+}

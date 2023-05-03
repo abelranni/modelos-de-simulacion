@@ -1,0 +1,16 @@
+{
+  "title": "01 - Introducción",
+  "description": "Introducción a la asignatura",
+  "slug": "/category/01---introducción",
+  "permalink": "/modelos-de-simulacion/docs/category/01---introducción",
+  "navigation": {
+    "previous": {
+      "title": "Introducción",
+      "permalink": "/modelos-de-simulacion/docs/intro"
+    },
+    "next": {
+      "title": "01.01 - Introducción",
+      "permalink": "/modelos-de-simulacion/docs/Introduccion/01.01_introduccion"
+    }
+  }
+}

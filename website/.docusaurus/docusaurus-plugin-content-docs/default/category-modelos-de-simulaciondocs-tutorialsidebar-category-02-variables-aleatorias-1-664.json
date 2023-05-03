@@ -1,0 +1,16 @@
+{
+  "title": "02 - Variables Aleatorias",
+  "description": "Variables Aleatorias",
+  "slug": "/category/02---variables-aleatorias-1",
+  "permalink": "/modelos-de-simulacion/docs/category/02---variables-aleatorias-1",
+  "navigation": {
+    "previous": {
+      "title": "02.03 - Interpretación de la prueba de bondad de ajuste",
+      "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.06_interpretacion_bondad_de_ajuste"
+    },
+    "next": {
+      "title": "banco",
+      "permalink": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "03 - Simulación",
+  "description": "Programas de Simulación",
+  "slug": "/category/03---simulación",
+  "permalink": "/modelos-de-simulacion/docs/category/03---simulación",
+  "navigation": {
+    "previous": {
+      "title": "02.03 - Interpretación de la prueba de bondad de ajuste",
+      "permalink": "/modelos-de-simulacion/docs/Variables Aleatorias/02.06_interpretacion_bondad_de_ajuste"
+    },
+    "next": {
+      "title": "Oficina Bancaria Fase I",
+      "permalink": "/modelos-de-simulacion/docs/Simulacion/Anylogic/Ejemplo/banco_fase_1"
+    }
+  }
+}

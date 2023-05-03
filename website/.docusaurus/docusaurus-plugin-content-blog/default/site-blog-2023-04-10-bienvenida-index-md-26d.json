@@ -1,0 +1,45 @@
+{
+  "permalink": "/modelos-de-simulacion/blog/welcome",
+  "source": "@site/blog/2023-04-10-bienvenida/index.md",
+  "title": "Bienvenida",
+  "description": "Las funciones de blogging de Docusaurus funcionan con el plugin de blog.",
+  "date": "2023-04-10T00:00:00.000Z",
+  "formattedDate": "10 de abril de 2023",
+  "tags": [
+    {
+      "label": "lenguajes",
+      "permalink": "/modelos-de-simulacion/blog/tags/lenguajes"
+    },
+    {
+      "label": "c",
+      "permalink": "/modelos-de-simulacion/blog/tags/c"
+    },
+    {
+      "label": "intro",
+      "permalink": "/modelos-de-simulacion/blog/tags/intro"
+    }
+  ],
+  "readingTime": 0.28,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Abel Ranni",
+      "title": "Developer",
+      "url": "https://github.com/abelranni",
+      "imageURL": "https://avatars.githubusercontent.com/u/13169667?v=4",
+      "key": "abel"
+    }
+  ],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Bienvenida",
+    "authors": [
+      "abel"
+    ],
+    "tags": [
+      "lenguajes",
+      "c",
+      "intro"
+    ]
+  }
+}
