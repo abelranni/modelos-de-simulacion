@@ -32,7 +32,7 @@ Configurar el marcado de espacio para el cajero automático
     ![](https://anylogic.help/tutorials/bank-office/images/point_node_draw.png)
     
 3.  Seleccione el nodo de punto en el editor gráfico para abrir su ![](https://anylogic.help/anylogic/ui/images/views/Properties_view.gif) vista **Propiedades**. Escriba la expresión que permitirá cambiar el color de la forma en tiempo de ejecución en la propiedad **Color**:  
-    ATM.size() > 0 ? rojo : verde
+    ATM.size() > 0 ? red : green
     
     CAJERO aquí está el nombre del ![](https://anylogic.help/library-reference-guides/process-modeling-library/icons/delay16.png) bloque **Delay** que creamos. La expresión determina el color del nodo de punto en tiempo de ejecución. El tamaño() devuelve el número de agentes que se están procesando actualmente. El color será rojo, si un cliente está siendo atendido en este momento, y verde de lo contrario.
     
