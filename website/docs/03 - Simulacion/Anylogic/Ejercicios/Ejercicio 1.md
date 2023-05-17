@@ -8,7 +8,7 @@
 
 **Escenario: Simulación de una Cafetería**
 
-Se desea modelizar el comportamiento de clientes en una  cafetería. La cafetería abre a las 8:00 a.m. y cierra a las 8:00 p.m. Los clientes llegan a la cafetería a intervalos aleatorios, y cada cliente pasa una cantidad de tiempo variable en la cafetería antes de irse.
+Imagina que estás administrando una cafetería. La cafetería abre a las 8:00 a.m. y cierra a las 8:00 p.m. Los clientes llegan a la cafetería a intervalos aleatorios, y cada cliente pasa una cantidad de tiempo variable en la cafetería antes de irse.
 
 Tu objetivo es simular el funcionamiento de la cafetería durante un día típico para entender mejor cómo se utilizan los recursos y cómo se puede mejorar la eficiencia.
 
